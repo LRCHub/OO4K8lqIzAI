@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "KAMAKURA",
+  "base_artist": "古川本舗",
+  "createdAt": "2026-03-22T01:31:43.020943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anata (DESTINY Kamakura Monogatari)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_Anata_(DESTINY_Kamakura_Monogatari)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kamakura",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/02_Kamakura_ASH.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kamakura Goodbye",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Kamakura_Goodbye_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kamakura Goodbye [鎌倉グッドバイ]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_Kamakura_Goodbye_[鎌倉グッドバイ]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kamakura",
+      "artist": "The Maccabees",
+      "has_synced": true,
+      "path": "select/05_Kamakura_The_Maccabees.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kamakura",
+      "artist": "Sly",
+      "has_synced": true,
+      "path": "select/06_Kamakura_Sly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kamakura Goodbye",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/07_Kamakura_Goodbye_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kamakura Goodbye (鎌倉グッドバイ Kamakura Guddobai)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_Kamakura_Goodbye_(鎌倉グッドバイ_Kamakura_Guddobai)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "鎌倉STYLE - KAMAKURA STYLE",
+      "artist": "BotchiBoromaru",
+      "has_synced": true,
+      "path": "select/09_鎌倉STYLE_-_KAMAKURA_STYLE_BotchiBoromaru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "鎌倉物語 - Kamakura Monogatari",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/10_鎌倉物語_-_Kamakura_Monogatari_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kamakura Good Bye",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/11_Kamakura_Good_Bye_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KAMAKURA",
+      "artist": "古川本舗",
+      "has_synced": false,
+      "path": "select/pl_01_KAMAKURA_古川本舗.txt"
+    }
+  ]
+}
